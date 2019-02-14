@@ -1,0 +1,8 @@
+*.pyc
+*~
+myvenv
+db.sqlite3
+/static
+myprofile/media
+myprofile/media/*
+.DS_Store

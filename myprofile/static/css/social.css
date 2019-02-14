@@ -1,0 +1,35 @@
+#jumper {
+  background: transparent;
+  font-size: 14px;
+  line-height: 50px;
+}
+#jumper p.social {
+  text-align: center;
+}
+#jumper p.social a {
+  margin-left: 10px;
+  color: #fff;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  line-height: 50px;
+  font-size: 25px;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+#jumper p.social a.facebook {
+  background-color: #4460ae;
+}
+#jumper p.social a.gplus {
+  background-color: #c21f25;
+}
+#jumper p.social a.instagram {
+  background-color: #cd4378;
+}
+#jumper p.social a.email {
+  background-color: #4a7f45;
+}
